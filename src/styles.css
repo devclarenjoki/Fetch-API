@@ -1,0 +1,58 @@
+body {
+  padding: 20px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+button {
+  cursor: pointer;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.loading {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.line-page {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+form {
+  max-width: 500px;
+  margin: 0;
+}
+
+button, textarea {
+  display: block;
+}
+
+button {
+  margin-top: 15px;
+}
+
+textarea {
+  width: 100%;
+}
+
+select {
+  display: block;
+  margin: 20px 0;
+  padding: 5px 20px;
+  cursor: pointer;
+}
