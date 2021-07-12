@@ -2,11 +2,11 @@
 Fetch data from an API in react. Read full tutorial [here](https://claremburu.medium.com/how-to-fetch-data-from-an-api-in-react-d4f20f6e11c9)
 
 ## Prerequisites
-React Hooks
-UseEffect Lifecycle Method
-APIS
-Fetch API
-Promises
+React Hooks <br/>
+UseEffect Lifecycle Method <br/>
+APIS <br/>
+Fetch API <br/>
+Promises <br/>
 
 ## What the program does
 1. When the page is loaded, it should fetch posts from endpoint and it should list in a simple table(ajax request) the endpoint documentation is here: https://jsonplaceholder.typicode.com/
